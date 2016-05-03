@@ -1,3 +1,13 @@
+
+# Created by https://www.gitignore.io/api/codekit,jekyll
+
+### CodeKit ###
+# General CodeKit files to ignore
+config.codekit
+/min
+
+
+### Jekyll ###
 _site/
 .sass-cache/
 .jekyll-metadata
